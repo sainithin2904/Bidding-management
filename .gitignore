@@ -186,4 +186,4 @@ for i in biding:
     winner = i
 print(f"{winner} has won the auction with the bid of{high}$")
 print(type(biding))
-#print(f"{max(biding)} has won the bid with {biding[max(biding)]} $")
+print(f"{max(biding)} has won the bid with {biding[max(biding)]} $")
